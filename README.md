@@ -1,2 +1,2 @@
 # Public-test
-Public test for my chool
+Public test for my school
